@@ -1,0 +1,10 @@
+&stopsound S
+&playsound U
+&img background1 backgroundObject
+&img gallery1 galleryObject
+&item item1 itemObject
+主人公\n「よし！やってやる！！」
+パズルを解くことで、ユニティちゃんを助けましょう！
+ゲームルールを説明します。
+準備ができたら、Readyボタンを押してください。
+&togglePanel
