@@ -1,8 +1,8 @@
-using System.Collections.Generic; //オブジェクトのリストを扱うための名前空間
-using DG.Tweening;
+using System.Collections.Generic; //ジェネリック（汎用的な）コレクションクラスやインターフェースを操作するための名前空間
+using DG.Tweening; //Unityでのアニメーションの作成や管理を容易にするためのライブラリ
 using UnityEngine; //Unityのゲームエンジンの機能を使うための名前空間
-using UnityEngine.SceneManagement; //Unityエンジンのシーン管理プログラムの名前空間
-using UnityEngine.UI;  //UnityのUI機能の名前空間
+using UnityEngine.SceneManagement; //Unityでシーンの読み込みや切り替え、シーン間のデータのやり取りなどを行うための名前空間
+using UnityEngine.UI; //UnityのUI要素を作成・操作するための名前空間
 
 //パズルゲームの管理を行うスクリプト
 public class PazzleGameSystem : MonoBehaviour

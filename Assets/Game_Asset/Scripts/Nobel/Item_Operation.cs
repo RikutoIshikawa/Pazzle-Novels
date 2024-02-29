@@ -1,6 +1,6 @@
-using System.Collections.Generic; //オブジェクトのリストを扱うための名前空間
+using System.Collections.Generic; //ジェネリック（汎用的な）コレクションクラスやインターフェースを操作するための名前空間
 using UnityEngine; //Unityのゲームエンジンの機能を使うための名前空間
-using UnityEngine.UI; //UnityのUI機能の名前空間
+using UnityEngine.UI; //UnityのUI要素を作成・操作するための名前空間
 
 //アイテムを管理するスクリプト
 public class Item_Operation : MonoBehaviour

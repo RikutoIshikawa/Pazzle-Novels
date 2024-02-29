@@ -1,5 +1,5 @@
 using UnityEngine; //Unityのゲームエンジンの機能を使うための名前空間
-using TMPro; //テキスト表示に特化した機能を使うための名前空間
+using TMPro; //テキスト表示に特化した機能を使用するための名前空間
 
 //シナリオを管理するスクリプト
 public class ScenarioManager : MonoBehaviour 

@@ -1,4 +1,4 @@
-using UnityEngine; //UnityのUI機能の名前空間
+using UnityEngine; //Unityのゲームエンジンの機能を使うための名前空間
 
 //簡単にパラメータを操作できるクラス
 [CreateAssetMenu]

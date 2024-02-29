@@ -1,4 +1,4 @@
-using System.Collections.Generic; //オブジェクトのリストを扱うための名前空間
+using System.Collections.Generic; //ジェネリック（汎用的な）コレクションクラスやインターフェースを操作するための名前空間
 using UnityEngine; //Unityのゲームエンジンの機能を使うための名前空間
 using System.IO; //ファイルに対する基本的なサポートを提供する型を使用するための名前空間
 

@@ -1,4 +1,4 @@
-using System.Collections; //オブジェクトのリストを扱うための名前空間
+using System.Collections; //データ構造（リスト、配列、辞書）に関連するクラスとインターフェースを操作するための名前空間
 using UnityEngine; //Unityのゲームエンジンの機能を使うための名前空間
 
 //ブロックの生成を行うスクリプト

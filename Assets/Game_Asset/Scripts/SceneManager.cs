@@ -1,7 +1,8 @@
-using UnityEngine.SceneManagement; //Unityエンジンのシーン管理プログラムの名前空間
+using UnityEngine.SceneManagement; //Unityでシーンの読み込みや切り替え、シーン間のデータのやり取りなどを行うための名前空間
 using UnityEngine; //Unityのゲームエンジンの機能を使うための名前空間
-using DG.Tweening; //DOTweenのDOVirtual.DelayedCall()を利用するための名前空間
+using DG.Tweening; //Unityでのアニメーションの作成や管理を容易にするためのライブラリ
 
+//各ボタンのシーン移動を管理する。
 public class ChangeScene : MonoBehaviour
 {
     //Startボタンが押された際にMain_Sceneへ切り替える
