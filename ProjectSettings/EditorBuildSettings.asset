@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title_Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main_Scene.unity
+    guid: b415c0e2cce8125469541da8dae86173
+  - enabled: 1
+    path: Assets/Scenes/Game_Over1.unity
+    guid: ca0482baf1b3db948856038c442c7d2f
+  - enabled: 1
+    path: Assets/Scenes/Middle_Scene.unity
+    guid: f093998eb1ec05e48af022da277bc927
+  - enabled: 1
+    path: Assets/Scenes/Pazzle_Scene.unity
+    guid: 3ff27e744c7cdc742b988c089c6a50ac
+  - enabled: 1
+    path: Assets/Scenes/Game_Over2.unity
+    guid: 9d90e5f4182a64642877047286bf950b
+  - enabled: 1
+    path: Assets/Scenes/Final_Scene.unity
+    guid: 10749a7343b98284080c43ed8a71515e
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

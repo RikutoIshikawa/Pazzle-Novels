@@ -1,0 +1,15 @@
+&stopsound S
+&playsound U
+&img background1 backgroundObject
+&img gallery1 galleryObject
+&item item1 itemObject
+クリーチャー\n「グオオオオオーー！！」
+ドカーーーーーーーーン！！！
+ユニティちゃん\n「キャ―――！！！」
+ユニティちゃんはクリーチャーにやられてしまった。
+&rmitem item1
+&rmimg gallery1
+&rmimg background1
+&stopsound U
+&togglePanel
+ゲームをリトライする場合は、Retryを押してください。\nリタイアする場合は、タイトルに戻るを押してください。

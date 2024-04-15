@@ -1,0 +1,48 @@
+&stopsound S
+&img background1 backgroundObject
+第１章　プロローグ
+&playsound L
+主人公\n「おはよう、ユニティちゃん！」
+&character character1 characterObject
+ユニティちゃん\n「うん、おはよう！」
+二人は会話をしながら歩いていく。
+主人公\n「何か面白いことないかな～？」
+ユニティちゃん\n「そうだね。普通の日常もいいけど、」
+&rmcharacter character1
+&character character2 characterObject
+ユニティちゃん\n「たまには何かドキドキすることがあってもいいよね。」
+&rmcharacter character2
+&stopsound L
+・・・ゴゴゴゴゴゴゴ
+&playsound U
+&img gallery1 galleryObject
+不穏な雰囲気が漂い始める。
+主人公\n（なんだか嫌な感じがするな…。）
+&character character4 characterObject
+ユニティちゃん\n「ねぇ、あれはなに？」
+&rmcharacter character4
+&item item1 itemObject
+突如として、目の前に魔法陣が現れた。
+主人公\n「な、なんだこれ？」
+ユニティちゃん\n「これは…ちょっと危険な感じがするね。」
+ユニティちゃん\n「どうしよう？」
+ピカッ！
+すると魔法陣が光を放ち、奇妙な生物が現れた。
+&item item2 itemObject
+主人公\n「な、なんだこいつ…！？」
+ユニティちゃん\n「まさか異世界のクリーチャー！？」
+主人公\n「ユニティちゃん、危ない！」
+ユニティちゃん\n「えっ？」
+クリーチャー\n「グオーーーー！！！」
+&rmitem item1
+&rmitem item2
+&character character6 characterObject
+ユニティちゃん\n「きゃーーー！」
+突如として、クリーチャーがユニティちゃんに襲い掛かろうとする。
+&rmcharacter character6
+主人公\n（どうにかして助けないと！）
+すると目の前に、謎の盤面が展開される。
+主人公\n（こんな時に、なんでこんなものが現れるんだ！？）
+主人公\n（これがあのクリーチャーとなにか関係があるのか？ ）
+主人公\n（やるしかないのか...）
+&togglePanel

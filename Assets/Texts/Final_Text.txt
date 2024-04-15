@@ -1,0 +1,55 @@
+&stopsound S
+&img background1 backgroundObject
+&img gallery1 galleryObject
+&item item1 itemObject
+&se C
+クリーチャー\n「グォーー！！」
+パズルを解くと謎のビームがクリーチャーに命中した。
+サァァーーーーーーー
+&rmitem item1
+謎の生物は灰のように消えていった。
+&rmimg gallery1
+主人公\n（なんだったんだ、今のは・・・）
+主人公\n「ユニティちゃん！ケガはない？」
+&playsound L
+&character character1 characterObject
+ユニティちゃん\n「うん、大丈夫！ありがとう！」
+ユニティちゃん\n「でも、いったいどうやってあの生物を倒したの？」
+主人公\n「自分でもよくわからない。」
+&rmcharacter character1
+&character character3 characterObject
+ユニティちゃん\n「そっか～、う～ん」
+&rmcharacter character3
+・・・・・・・・。
+&stopsound L
+・・・ゴゴゴゴゴゴゴ
+主人公\n「また、あの化け物か！」
+&item item2 itemObject
+突如として、謎の扉が現れ、謎めいた声が聞こえてくる。
+？\n「私はパズルの神である。」
+&playsound F
+パズルの神\n「若者よ、君たちは選ばれし者だ。異世界の扉が開かれ、\n君たちには多くの冒険が待っている。」
+パズルの神\n「パズルの力を使いこなし、異次元の脅威を打破せよ。」
+主人公\n（なんだって…？）
+パズルの神\n「では、さらばだ。」
+主人公\n「おいっ！待てー！」
+平穏な雰囲気が戻ってくる。
+主人公\n「次から次に一体なんなんだよ～」
+&character character2 characterObject
+ユニティちゃん\n「これはすごい！冒険者になった気分だね！」
+主人公\n「ポジティブすぎない～？」
+ユニティちゃん\n「え～異世界とか楽しそうじゃん！」
+&rmcharacter character2
+&character character5 characterObject
+ユニティちゃん\n「とりあえず扉の中に入ってみようよ～」
+主人公\n「なにが起こるかわからないぞ？」
+ユニティちゃん\n「だからこそ、楽しいんじゃない？新しい世界での冒険、楽しみだね！」
+主人公\n「も～わかったよ～」
+&rmcharacter character5
+二人は扉の中へと入っていく。
+こうして、二人の冒険が始まった。
+第１章　プロローグ FIN
+&rmimg background1
+&rmitem item2
+&img gallery2 galleryObject
+&togglePanel
